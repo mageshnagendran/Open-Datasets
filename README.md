@@ -1,5 +1,7 @@
 
 > **Disclaimer:** Dataset is for educational purpose only and its information providers do not guarantee the accuracy, completeness or timeliness of the data. Individuals should not make investment or other financial decisions solely on the basis of this data. 
+
+
 > **ProTip:** Use data cleansing and transformation before performing analytics.
 
 
