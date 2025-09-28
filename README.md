@@ -19,5 +19,5 @@
 |US Securities and Exchange Commission |`Financial Statement Data Sets` | https://www.sec.gov/data-research/sec-markets-data/financial-statement-data-sets |
 |World Bank Group  |`Global Financial Development Report` | https://www.worldbank.org/en/publication/gfdr/data/global-financial-development-database |
 |FINRA Fixed income Data |` FINRA provides comprehensive, real-time access to fixed income security and trade information compiled from multiple sources` | https://www.finra.org/finra-data/fixed-income|
-
+|Kaggle|`Download Open Datasets on 1000s of Projects &#x2B; Share Projects on One Platform. Explore Popular Topics Like Government, Sports, Medicine, Fintech, Food, More. Flexible Data Ingestion.`|https://www.kaggle.com/datasets|
 
